@@ -150,7 +150,7 @@ Aşağıdakileri konsolda gösterim (console.log) işlemi gerçekleştirerek, yu
 
 //(1) Dizideki ilk fenomen (0. dizin) profil (profile) adı
 
-
+  console.log( fenomenler[0],"Tiktok");
 //(2) Dizideki üçüncü fenomenin (2. dizin) takipçi (followers) sayısı
 
 
